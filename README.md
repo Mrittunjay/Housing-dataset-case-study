@@ -12,4 +12,6 @@ Essentially, the company wants:
 2. To create a linear model that quantitatively relates house prices with variables, such as the number of rooms, area, number of bathrooms, etc.
 3. To know the accuracy of the model, i.e. how well do these variables predict the house prices
 
+**Added code for decising tree regression model.
+
 Note: The project was done in Google-colab
